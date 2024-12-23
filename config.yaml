@@ -1,0 +1,21 @@
+responses:
+  claude:
+    text: |
+      A Câmara dos Deputados é uma das duas casas do Congresso Nacional brasileiro, onde trabalham os representantes eleitos pelo povo para criar e votar leis que afetam toda a população. É formada por 513 deputados federais, eleitos a cada quatro anos, com quantidade diferente para cada estado, de acordo com o tamanho da população - estados mais populosos têm mais deputados.
+
+      Os deputados têm como principais funções propor e votar projetos de lei, fiscalizar as ações do governo federal, aprovar o orçamento do país e debater assuntos importantes para a sociedade. Eles trabalham em Brasília e são responsáveis por representar os interesses da população que os elegeu, participando de comissões temáticas e sessões plenárias onde discutem e votam as propostas que podem se transformar em leis.
+
+  gpt4o_mini:
+    text: |
+      A Câmara dos Deputados do Brasil é uma das duas casas do Congresso Nacional, sendo a outra o Senado Federal. Ela é composta por representantes eleitos pelo povo, conhecidos como deputados federais, que têm a responsabilidade de elaborar e votar leis, fiscalizar o poder executivo e representar os interesses da população. Cada estado brasileiro possui um número de deputados proporcional à sua população, o que garante que todas as regiões do país tenham voz nas decisões legislativas.
+
+      Os deputados são eleitos a cada quatro anos e podem ser reeleitos. A Câmara também tem funções importantes, como aprovar o orçamento da União, investigar irregularidades e autorizar a abertura de processos de impeachment contra o presidente da República. Assim, a Câmara dos Deputados desempenha um papel fundamental na democracia brasileira, assegurando que as decisões políticas reflitam a vontade do povo.
+
+  gemini_1_5_flash:
+    text: |
+      Imagine o Brasil como uma grande escola, e cada estado como uma sala de aula.  A Câmara dos Deputados é como a assembleia geral de estudantes dessa escola.  São 513 deputados, escolhidos pelo voto de todos os brasileiros, representando cada sala de aula (estado) de acordo com o número de alunos (população).  Quanto maior a sala, mais estudantes (deputados) ela tem para falar em nome de seus colegas.
+
+      A função principal desses deputados é criar as regras da escola (leis). Eles discutem, debatem e votam projetos de lei que afetam a todos. Além disso, eles fiscalizam o diretor da escola (governo) para garantir que tudo esteja funcionando corretamente e aprovam o orçamento, ou seja, o dinheiro que será usado para manter a escola funcionando.  Em resumo, a Câmara dos Deputados é a voz do povo brasileiro, garantindo que suas necessidades e opiniões sejam ouvidas e consideradas na criação das leis do país.
+
+overview_summary: |
+  A Câmara dos Deputados é a casa legislativa que representa o povo brasileiro no Congresso Nacional, composta por 513 deputados federais eleitos proporcionalmente à população de cada estado. Suas principais atribuições incluem criar e votar leis, fiscalizar o Poder Executivo, aprovar o orçamento da União e representar os interesses dos cidadãos que os elegeram.
